@@ -1,4 +1,4 @@
-<img src="images/allah.png" height=300/>
+<img src="images/allah.png" height=450/>
 
 # OpenCV In Arabic For Beginners
 
