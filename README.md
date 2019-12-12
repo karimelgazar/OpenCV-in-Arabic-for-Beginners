@@ -1,8 +1,9 @@
-![](images/allah.png)
+<img src="images/allah.png" height=300/>
+
 # OpenCV In Arabic For Beginners
 
 ## About The Course
-### This course is for bignners in Computer Vision or OpenCV
+### This course is for beginners in Computer Vision or OpenCV
 ### Click the image below to go to the course playlist on Youtube
 
 <a href="https://www.youtube.com/playlist?list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z" target="_blank"><img src="images/cover.png"></a>
