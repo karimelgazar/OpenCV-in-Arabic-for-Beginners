@@ -11,7 +11,7 @@
 
 ## Setup
 
-To run the code, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, ``matplotlib``, ``scikit-learn``, ``mahotas`` and ``opencv-python``.
+To run the code, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, ``matplotlib``, ``scikit-image``, ``mahotas`` and ``opencv-python``.
 
 The easiest way to set up an environment is by installing [Anaconda](https://www.anaconda.com/distribution/).
 
