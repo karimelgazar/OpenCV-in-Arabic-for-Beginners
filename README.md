@@ -67,14 +67,14 @@ If you **don't want to use Anaconda** and already have a Python environment and 
 <tbody>
     <tr>
         <td>
-        <a target="_blank" href="https://www.youtube.com/watch?v=xH3_xIZLoJA&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=2&t=1s">#00 Introduction</a></td>
+        <a href="https://www.youtube.com/watch?v=xH3_xIZLoJA&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=2&t=1s" target="_blank">#00 Introduction</a></td>
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/raw/master/Power%20Point/Computer%20Vision-intro.pptx">Introduction to CV Power Point</a>
         </td>
     </tr>
     <tr>
         <td>
-         <a target="_blank" href="https://www.youtube.com/watch?v=xH3_xIZLoJA">#01 Installing Packages</a></td>
+         <a href="https://www.youtube.com/watch?v=xH3_xIZLoJA" target="_blank">#01 Installing Packages</a></td>
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/environment.yml">environment.yml</a>,
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/all.yml">all.yml</a>,
