@@ -56,7 +56,6 @@ If you **don't want to use Anaconda** and already have a Python environment and 
     pip install -r requirements.txt
 
 ---
-
 ## Table of Content
 <table>
 <thead>
@@ -77,9 +76,9 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <td>
          <a href="https://www.youtube.com/watch?v=xH3_xIZLoJA">#01 Installing Packages</a></td>
         <td>
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/all.yml">environment.yml</a>,
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/all.yml">all.yml</a>,
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/all.yml">requirements.txt</a>   
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/environment.yml">environment.yml</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/all.yml">all.yml</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/requirements.yml">requirements.txt</a>   
         </td>
     </tr>
 </tbody>
