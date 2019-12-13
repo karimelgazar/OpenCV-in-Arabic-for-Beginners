@@ -45,7 +45,11 @@ you can get all packages by running
         # change "YOUR_ENV_NAME" with the name you want "DON'T use empty spaces in the environment name" 
         conda env create -n YOUR_ENV_NAME -file environment.yml
 
-3. If face any problem run the command bleow to install all the package I use on my PC (It will take some time). 
+3. Or Just use the `base` environment 
+
+         conda env update -n base --file environment.yml
+
+4. If face any problem run the command bleow to install all the package I use on my PC (It will take some time). 
 
          conda env update -n base --file all.yml
 
