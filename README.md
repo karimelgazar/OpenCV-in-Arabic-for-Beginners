@@ -78,7 +78,7 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/environment.yml">environment.yml</a>,
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/all.yml">all.yml</a>,
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/requirements.yml">requirements.txt</a>   
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/requirements.txt">requirements.txt</a>   
         </td>
     </tr>
 </tbody>
