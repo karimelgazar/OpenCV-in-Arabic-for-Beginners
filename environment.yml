@@ -1,0 +1,8 @@
+dependencies:
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - mahotas
+  - scikit-image
+  - opencv
