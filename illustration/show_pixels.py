@@ -36,11 +36,12 @@ def show_pixels():
         print("Pixel at (0, 0):", copy[0, 0], end='\r')
 
 
-# show_pixels()
+show_pixels()
 
-image[300:350, 300:350] = [255, 0, 0]
-cv2.imshow(Win_NAME, image)
-cv2.waitKey(0)
+# image[300:350, 300:350] = [255, 0, 0]
+# cv2.imshow(Win_NAME, image)
+# cv2.waitKey(0)
+
 cv2.destroyAllWindows()
 
 # print(cv2.imwrite('E:\l.jpg', image))
