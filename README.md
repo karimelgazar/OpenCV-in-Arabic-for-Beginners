@@ -102,5 +102,12 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2304_drawing_shapes.py">#04_drawing_shapes.py</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=4mplUpakmGw&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=7" target="_blank">#05 Image Tranformations</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2305_img_tranformation.py">#05_img_tranformation.py</a>
+        </td>
+    </tr>
 </tbody>
 </table>
