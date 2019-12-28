@@ -123,6 +123,7 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2307_bitwise_operations.py">#07_bitwise_operations.py</a>
         </td>
     </tr>
+    <tr>
         <td>
         <a href="https://www.youtube.com/watch?v=3phdreDx17Q&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=10&t=0s" target="_blank">#08 Masking</a></td>
         <td>
@@ -135,6 +136,7 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2309_splitting_merging.py">#09_splitting_merging.py</a>
         </td>
+    </tr>
     <tr>
         <td>
         <a href="https://www.youtube.com/watch?v=HMCivIDUd-I&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=12&t=0s" target="_blank">#10 Color Spaces</a></td>
@@ -142,21 +144,41 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2310_color_spaces.py">#10_color_spaces.py</a>
         </td>
     </tr>
+    <tr>
         <td>
         <a href="https://www.youtube.com/watch?v=cWwpniPYpCs&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=13&t=0s" target="_blank">#11 Text and Trackbar</a></td>
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2311_text_trackbar.py">#11_text_trackbar.py</a>
         </td>
     </tr>
+    <tr>
         <td>
         <a href="https://www.youtube.com/watch?v=ge4QuZKHpMM&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=14&t=0s" target="_blank">#12 Application on Text and Trackbar</a></td>
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2312_face_recognition.py">#12_face_recognition.py</a>
         </td>
     </tr>
-    </tr>
+    <tr>
         <td>
         <a href="https://www.youtube.com/watch?v=vVZbc9RhFsA&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=15&t=0s" target="_blank">#13 Histogram</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2313_histogram.py">#13_histogram.py</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=jCXApg0KDps&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=16&t=0s" target="_blank">#14 Blurring Part #01</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2313_histogram.py">#13_histogram.py</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/avg_blur_00.gif">avg_blur_00.gif</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/avg_blur_01.gif">avg_blur_01.gif</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/gauss.gif">gauss.gif</a>,
+        <a href="https://medium.com/hackernoon/cv-for-busy-developers-convolutions-5c984f216e8c">Medium Article</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=b61A7mNMIX0&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=17&t=0s" target="_blank">#15 Blurring Part #02</a></td>
         <td>
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2313_histogram.py">#13_histogram.py</a>
         </td>
