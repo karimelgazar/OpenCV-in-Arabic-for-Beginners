@@ -169,7 +169,7 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <td>
         <a href="https://www.youtube.com/watch?v=jCXApg0KDps&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=16&t=0s" target="_blank">#14 Blurring Part #01</a></td>
         <td>
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2313_histogram.py">#13_histogram.py</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2314_blurring.py">#14_blurring.py</a>,
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/avg_blur_00.gif">avg_blur_00.gif</a>,
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/avg_blur_01.gif">avg_blur_01.gif</a>,
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration/gauss.gif">gauss.gif</a>,
@@ -180,7 +180,7 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <td>
         <a href="https://www.youtube.com/watch?v=b61A7mNMIX0&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=17&t=0s" target="_blank">#15 Blurring Part #02</a></td>
         <td>
-        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2313_histogram.py">#13_histogram.py</a>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2314_blurring.py">#14_blurring.py</a>
         </td>
     </tr>
 </tbody>
