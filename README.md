@@ -197,5 +197,12 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2315_thresholding.py">#15_thresholding.py</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=hqrs6Ar6oDM&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=20&t=0s" target="_blank">#18 Edge Detection</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2316_find_edges.py">#16_find_edges.py</a>
+        </td>
+    </tr>
 </tbody>
 </table>
