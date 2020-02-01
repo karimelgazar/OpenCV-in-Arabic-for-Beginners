@@ -211,5 +211,14 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2317_extract_coins.py">#17_extract_coins.py</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=jQQ7QfYnRJE&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z&index=20&t=0s" target="_blank">#20 HSV Color Space</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2318_extract_coins.py">#18_hsv.py</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration\hsv%20VS%20rgb.jfif">hsv VS rgb.jfif</a>,
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/illustration\hsv.jfif">hsv.jfif</a>
+        </td>
+    </tr>
 </tbody>
 </table>
