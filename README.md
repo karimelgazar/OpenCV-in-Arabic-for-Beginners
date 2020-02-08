@@ -227,5 +227,12 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2319_waitKey.py">#19_waitKey.py</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=1dWaUSTT1yE&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z" target="_blank">#22 Fonts</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2320_fonts.py">#20_fonts.py</a>
+        </td>
+    </tr>
 </tbody>
 </table>
