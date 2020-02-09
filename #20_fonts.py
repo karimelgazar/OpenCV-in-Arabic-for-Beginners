@@ -1,4 +1,7 @@
 
+# check first if the PIL is installed
+#! press (ctrl + z) to exit python
+
 # ? python -m pip install Pillow
 # ? conda install -c anaconda pillow
 
