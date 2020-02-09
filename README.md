@@ -234,5 +234,19 @@ If you **don't want to use Anaconda** and already have a Python environment and 
         <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2320_fonts.py">#20_fonts.py</a>
         </td>
     </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=RYe-eNEXrtY&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z" target="_blank">#23 Reading Videos</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2321_read_video.py">#21_read_video.py</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <a href="https://www.youtube.com/watch?v=9L64AbCga1Q&list=PLO1D3YWS7ep3Pfjls3LjBtp5XdvGpBD6Z" target="_blank">#24 Saving Videos</a></td>
+        <td>
+        <a href="https://github.com/karimelgazar/OpenCV-in-Arabic-for-Beginners/blob/master/%2322_write_video.py">#22_write_video.py</a>
+        </td>
+    </tr>
 </tbody>
 </table>
