@@ -11,7 +11,7 @@ channels = cv2.split(image_rgb)
 # https://stackoverflow.com/questions/50963283/python-opencv-imshow-doesnt-need-convert-from-bgr-to-rgb
 
 cv2.imshow('Image', image)
-ذ
+
 # for c, label in zip(channels, list('RGB')):
 #     print(label)
 #     cv2.imshow(label, c)
