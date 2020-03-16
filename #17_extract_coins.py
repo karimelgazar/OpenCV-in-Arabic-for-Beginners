@@ -13,7 +13,7 @@ blurred = cv2.GaussianBlur(gray, (15, 15), 0)
 edged = cv2.Canny(blurred, 30, 180)
 cv2.imshow("Edged", edged)
 
-#? Finding Contours # 
+#? Finding Contours #
 _, contours, _ = cv2.findContours(edged,
                                   cv2.RETR_EXTERNAL,
                                   cv2.CHAIN_APPROX_SIMPLE)
@@ -22,7 +22,7 @@ print("{} objects found".format(len(contours)).title())
 print('=' * 30)
 
 cv2.drawContours(image, contours, -1, (0, 255, 0), 2)
-cv2.imshow("Objects Found", image) 
+cv2.imshow("Objects Found", image)
 
 #? Extracting Objects One By One #
 
@@ -32,15 +32,14 @@ cv2.imshow("Objects Found", image)
 mask = np.zeros(image.shape[:2], np.uint8)
 
 for i, c in enumerate(contours):
-    #? if taken with PhotoShop
+    # ? if taken with PhotoShop
     x, y, w, h = cv2.boundingRect(c)
     coin = image[y:y+h, x:x+w]
 
-    #? Original Coin
+    # ? Original Coin
     (cX, cY), r = cv2.minEnclosingCircle(c)
     cv2.circle(mask, (int(cX), int(cY)), int(r), 255, -1)
     cv2.imshow('Mask', mask)
-
 
     coin_mask = mask[y:y+h, x:x+w]
     masked = cv2.bitwise_and(coin, coin, mask=coin_mask)
