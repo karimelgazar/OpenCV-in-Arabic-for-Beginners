@@ -14,9 +14,16 @@ edged = cv2.Canny(blurred, 30, 180)
 cv2.imshow("Edged", edged)
 
 #? Finding Contours #
-_, contours, _ = cv2.findContours(edged,
-                                  cv2.RETR_EXTERNAL,
-                                  cv2.CHAIN_APPROX_SIMPLE)
+
+# ! opencv فى قائمة المخرجات وفقا لاصدار مكتبة contours ترتيب ال
+if (cv2.__version__)[0] in '24':
+    contours, _ = cv2.findContours(edged,
+                                   cv2.RETR_EXTERNAL,
+                                   cv2.CHAIN_APPROX_SIMPLE)
+else:
+    _, contours, _ = cv2.findContours(edged,
+                                      cv2.RETR_EXTERNAL,
+                                      cv2.CHAIN_APPROX_SIMPLE)
 print('=' * 30)
 print("{} objects found".format(len(contours)).title())
 print('=' * 30)
